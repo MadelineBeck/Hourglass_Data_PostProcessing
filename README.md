@@ -8,3 +8,6 @@ This code is still in development! When completed, this will repopulate UAV imag
 
 HG_WX_Cleanup:
 At the fieldsite, there is an automated weather station present. This weather station collects a variety of information, but to be used correctly, needs to be further cleaned. This code provides the framework necessary to clean up variables for this exported dataset. 
+
+Hourglass_Hourly.csv
+This is an example file that is downloaded directly from the Campbell datalogger. This code can be cloned with this repository to be run as an example code for the HG_WX_Cleanup code. 
