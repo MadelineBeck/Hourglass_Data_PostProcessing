@@ -22,6 +22,10 @@ The steps of this code are as follows:
 * Within the imagery folder, have folders for each flight done on that day
 * Within the raw_files folder, have all your RTKLIB corrected RINEX files saved as .csv and all timestamp files saved as .MRK
 
+--- 
+**Optional Folders**
+* RTK Base heights in a .csv file
+
 If done correctly, the end of the code should export an updated .csv file titled "Date of flight"+Corrected_Imagery_Locs.csv 
 
 ## HG_WX_Cleanup:
