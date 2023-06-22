@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Madeline Beck"
+  orcid: "https://orcid.org/0000-0003-0793-2073"
+title: "Hourglass_Data_PostProcessing"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-06-22
+url: "https://github.com/MadelineBeck/Hourglass_Data_PostProcessing"
